@@ -1,13 +1,11 @@
 name: UnsafeEnchant
 main: fr.jules_cesar.UnsafeEnchant.UnsafeEnchant
-version: 1.1
+version: 1.2
 author: Jules_Cesar
 depend: [Vault]
 commands:
     enchantu:
         description: Objet fou !
-    damage:
-        description: Casse ton objet !
 permissions:
     UnsafeEnchant.use:
       default: false
